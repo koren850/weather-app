@@ -1,0 +1,166 @@
+{
+	"Headline": {
+		"EffectiveDate": "2022-02-05T07:00:00+04:00",
+		"EffectiveEpochDate": 1644030000,
+		"Severity": 4,
+		"Text": "Noticeably colder Saturday",
+		"Category": "cooler",
+		"EndDate": "2022-02-05T19:00:00+04:00",
+		"EndEpochDate": 1644073200,
+		"MobileLink": "http://www.accuweather.com/en/ge/telavi/169072/daily-weather-forecast/169072?unit=c&lang=en-us",
+		"Link": "http://www.accuweather.com/en/ge/telavi/169072/daily-weather-forecast/169072?unit=c&lang=en-us"
+	},
+	"DailyForecasts": [
+		{
+			"Date": "2022-02-03T07:00:00+04:00",
+			"EpochDate": 1643857200,
+			"Temperature": {
+				"Minimum": {
+					"Value": 4.3,
+					"Unit": "C",
+					"UnitType": 17
+				},
+				"Maximum": {
+					"Value": 14.7,
+					"Unit": "C",
+					"UnitType": 17
+				}
+			},
+			"Day": {
+				"Icon": 4,
+				"IconPhrase": "Intermittent clouds",
+				"HasPrecipitation": false
+			},
+			"Night": {
+				"Icon": 38,
+				"IconPhrase": "Mostly cloudy",
+				"HasPrecipitation": false
+			},
+			"Sources": ["AccuWeather"],
+			"MobileLink": "http://www.accuweather.com/en/ge/telavi/169072/daily-weather-forecast/169072?day=1&unit=c&lang=en-us",
+			"Link": "http://www.accuweather.com/en/ge/telavi/169072/daily-weather-forecast/169072?day=1&unit=c&lang=en-us"
+		},
+		{
+			"Date": "2022-02-04T07:00:00+04:00",
+			"EpochDate": 1643943600,
+			"Temperature": {
+				"Minimum": {
+					"Value": 2.2,
+					"Unit": "C",
+					"UnitType": 17
+				},
+				"Maximum": {
+					"Value": 12.4,
+					"Unit": "C",
+					"UnitType": 17
+				}
+			},
+			"Day": {
+				"Icon": 6,
+				"IconPhrase": "Mostly cloudy",
+				"HasPrecipitation": false
+			},
+			"Night": {
+				"Icon": 38,
+				"IconPhrase": "Mostly cloudy",
+				"HasPrecipitation": false
+			},
+			"Sources": ["AccuWeather"],
+			"MobileLink": "http://www.accuweather.com/en/ge/telavi/169072/daily-weather-forecast/169072?day=2&unit=c&lang=en-us",
+			"Link": "http://www.accuweather.com/en/ge/telavi/169072/daily-weather-forecast/169072?day=2&unit=c&lang=en-us"
+		},
+		{
+			"Date": "2022-02-05T07:00:00+04:00",
+			"EpochDate": 1644030000,
+			"Temperature": {
+				"Minimum": {
+					"Value": -3.3,
+					"Unit": "C",
+					"UnitType": 17
+				},
+				"Maximum": {
+					"Value": 3.3,
+					"Unit": "C",
+					"UnitType": 17
+				}
+			},
+			"Day": {
+				"Icon": 2,
+				"IconPhrase": "Mostly sunny",
+				"HasPrecipitation": true,
+				"PrecipitationType": "Snow",
+				"PrecipitationIntensity": "Light"
+			},
+			"Night": {
+				"Icon": 34,
+				"IconPhrase": "Mostly clear",
+				"HasPrecipitation": false
+			},
+			"Sources": ["AccuWeather"],
+			"MobileLink": "http://www.accuweather.com/en/ge/telavi/169072/daily-weather-forecast/169072?day=3&unit=c&lang=en-us",
+			"Link": "http://www.accuweather.com/en/ge/telavi/169072/daily-weather-forecast/169072?day=3&unit=c&lang=en-us"
+		},
+		{
+			"Date": "2022-02-06T07:00:00+04:00",
+			"EpochDate": 1644116400,
+			"Temperature": {
+				"Minimum": {
+					"Value": -1.7,
+					"Unit": "C",
+					"UnitType": 17
+				},
+				"Maximum": {
+					"Value": 5.4,
+					"Unit": "C",
+					"UnitType": 17
+				}
+			},
+			"Day": {
+				"Icon": 2,
+				"IconPhrase": "Mostly sunny",
+				"HasPrecipitation": false
+			},
+			"Night": {
+				"Icon": 19,
+				"IconPhrase": "Flurries",
+				"HasPrecipitation": true,
+				"PrecipitationType": "Snow",
+				"PrecipitationIntensity": "Light"
+			},
+			"Sources": ["AccuWeather"],
+			"MobileLink": "http://www.accuweather.com/en/ge/telavi/169072/daily-weather-forecast/169072?day=4&unit=c&lang=en-us",
+			"Link": "http://www.accuweather.com/en/ge/telavi/169072/daily-weather-forecast/169072?day=4&unit=c&lang=en-us"
+		},
+		{
+			"Date": "2022-02-07T07:00:00+04:00",
+			"EpochDate": 1644202800,
+			"Temperature": {
+				"Minimum": {
+					"Value": -0.2,
+					"Unit": "C",
+					"UnitType": 17
+				},
+				"Maximum": {
+					"Value": 7.7,
+					"Unit": "C",
+					"UnitType": 17
+				}
+			},
+			"Day": {
+				"Icon": 4,
+				"IconPhrase": "Intermittent clouds",
+				"HasPrecipitation": false
+			},
+			"Night": {
+				"Icon": 22,
+				"IconPhrase": "Snow",
+				"HasPrecipitation": true,
+				"PrecipitationType": "Snow",
+				"PrecipitationIntensity": "Light"
+			},
+			"Sources": ["AccuWeather"],
+			"MobileLink": "http://www.accuweather.com/en/ge/telavi/169072/daily-weather-forecast/169072?day=5&unit=c&lang=en-us",
+			"Link": "http://www.accuweather.com/en/ge/telavi/169072/daily-weather-forecast/169072?day=5&unit=c&lang=en-us"
+		}
+	]
+}
